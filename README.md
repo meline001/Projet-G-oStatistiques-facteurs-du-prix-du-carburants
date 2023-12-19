@@ -1,6 +1,6 @@
 # Projet-GeoStatistiques-facteurs-du-prix-du-carburants
 Projet de géostatistique présentant les facteurs géographiques et socio-économiques qui influent sur le prix du carburant d’une station à une autre en France métropolitaine.
-Projet réalisé dans le cadre d'études GéoDataScience par I. BOUIBDALLAOUI, T. DARDANT, M. REUCHE
+\n Projet réalisé dans le cadre d'études GéoDataScience par I. BOUIBDALLAOUI, T. DARDANT, M. REUCHE
 
 ## Données
 *Carburant : _insérer lien données/Répertoire_
