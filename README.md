@@ -22,3 +22,20 @@ Récupérer ensuite le reste des données.
 Pour afficher le prix moyen du carburant par département, il vous faut les données du **carburant** de 2019 et/ou 2023 ainsi que les données des **départements**.  
 Récupérez le code **PrixMoyenCarburantFrance.R**. Rentrez le chemin vers vos fichiers dans le code et lancez le. Ce code travaille sur le gazole, le SP98 et le SP95. Il vous affichera la moyenne des prix pour chaque carburant dans chaque département de France. Il vous affichera aussi un histogramme qui repressentera des classes des prix moyen pour chaque carburant et le nombre de départements qui se trouve dans cette tranche de prix. Cela permettra de mettre en avant le prix moyen le plus répandu en France. Enfin vous pourrez observé le prix moyen national de chaque carburant.   
   
+### Comparaison de la population et du prix du carburant
+Tout d'abord récupérez les donnée sur la **population**, le **carburant** et le fichier **nomfichier.R**.  
+
+
+### Comparaison du revenu moyen disponible et du prix du carburant
+Tout d'abord récupérez les donnée sur le **revenu**, le **carburant** et le fichier **nomfichier.R**.  
+
+
+### Comparaison du prix du carburant et de la distance routière 
+Tout d'abord récupérez les donnée sur les **routes**, le **carburant** et le fichier **nomfichier.R**.  
+
+
+### Comparaison du prix du carburant et la distance de la station-service à un magasin 
+Tout d'abord récupérez les donnée sur les **magasins**, le **carburant** et le fichier **nomfichier.R**.  
+
+### ACP
+
