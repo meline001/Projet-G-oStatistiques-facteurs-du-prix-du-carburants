@@ -11,5 +11,8 @@ Projet réalisé dans le cadre d'études GéoDataScience par I. BOUIBDALLAOUI, T
   *Départements : _insérer lien données/Répertoire_
   *Iris : _insérer lien données/Répertoire_
 
+## Utilisation 
+Tout d'abord récupérer les données du carburant puis utiliser le code _nom code_ qui va permettre de transformer ces données dan sla bonne projection et les joindres au iris afin que nous puissions les utiliser par la suite. 
+_Explication du code_
 
   
