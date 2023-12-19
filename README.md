@@ -1,6 +1,6 @@
 # Projet-GeoStatistiques-facteurs-du-prix-du-carburants
 Projet de géostatistique présentant les facteurs géographiques et socio-économiques qui influent sur le prix du carburant d’une station à une autre en France métropolitaine en 2019 et en 2023.    
-Projet réalisé dans le cadre d'études GéoDataScience par I. BOUIBDALLAOUI, T. DARDANT, M. REUCHE  
+Projet réalisé dans le cadre d'études GéoDataScience par I. BOUABDALLAOUI, T. DARDANT, M. REUCHE  
 
 La plupart des codes sont fait en R. Vous devez donc avoir installés un logiciel qui lit du R auparavant pour pouvoir utilsés nos codes.  
 
