@@ -12,10 +12,10 @@ Les différents modules sont rangés dans des dossiers séparés :
 *4_Cartographie est une analyse spatiale du prix moyen des carburants en France.
 
 ## Données
-*Carburant : _https://www.prix-carburants.gouv.fr/rubrique/opendata/_  
-*Population par iris 2019 : _https://www.insee.fr/fr/statistiques/6543200#consulter _
-*Revenus par iris 2019: _https://www.insee.fr/fr/statistiques/6049648 _
-*Revenus par iris 2020: _https://www.insee.fr/fr/statistiques/7233950 _
+*Carburant : _https://www.prix-carburants.gouv.fr/rubrique/opendata/_
+*Population par iris 2019 : _https://www.insee.fr/fr/statistiques/6543200#consulter_
+*Revenus par iris 2019: _https://www.insee.fr/fr/statistiques/6049648_
+*Revenus par iris 2020: _https://www.insee.fr/fr/statistiques/7233950_
 *Magasins : _insérer lien données/Répertoire_
 *Routes : _insérer lien données/Répertoire_  
 *Départements : _insérer lien données/Répertoire_  
