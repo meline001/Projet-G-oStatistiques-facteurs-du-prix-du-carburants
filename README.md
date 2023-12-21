@@ -4,6 +4,13 @@ Projet réalisé dans le cadre d'études GéoDataScience par I. BOUABDALLAOUI, T
 
 La plupart des codes sont fait en R. Vous devez donc avoir installés un logiciel qui lit du R auparavant pour pouvoir utilsés nos codes.  
 
+### Description des modules
+Les différents modules sont rangés dans des dossiers séparés :
+1_Preparation_Donnees_Carburant correspond au gros traitement de préparation des données XML du carburant pour pouvoir les exploiter dans nos analyses. 
+2_Analyses_data correspond aux analyses portant sur la population et le revenu disponible en fonction des iris par rapport au prix des carburants.
+3_GWR_Analyse correspond aux traitements pour extraire les informations de distance et de nombre de shop des stations ainsi que le code permettant l'analyse gwr
+4_Cartographie est une analyse spatiale du prix moyen des carburants en France.
+
 ## Données
 *Carburant : _insérer lien données/Répertoire_  
 *Population par iris : _insérer lien données/Répertoire_  
@@ -38,4 +45,8 @@ Tout d'abord récupérez les donnée sur les **routes**, le **carburant** et le 
 Tout d'abord récupérez les donnée sur les **magasins**, le **carburant** et le fichier **nomfichier.R**.  
 
 ### ACP
+
+
+
+
 
