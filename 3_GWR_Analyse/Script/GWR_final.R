@@ -1,4 +1,7 @@
-
+library(sf)
+library(dplyr)
+library(spgwr)
+library(ggplot2)
 
 
 #Charger données stations FM
@@ -61,3 +64,6 @@ gwr.point1<-ggplot()+geom_point(data=stations_gas_5km, mapping=aes(x=X_RGF93,y=Y
 gwr.point1
 
 
+#calcul écart type 
+sigTest = abs(gwr.model$SDF$dist_autoroute) -2 * gwr.model$SDF$dist_autoroute_se  
+stations_gas_500m$GWRditauto<-sigTest 
