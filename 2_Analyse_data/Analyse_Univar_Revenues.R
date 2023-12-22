@@ -8,11 +8,11 @@ library(readr)
 #data_revenu <- read_csv("../1_Preparation_Donnees_Carburant/Donnee_Prep/df_resultat_revenu_2019_med19.csv")
 data_revenu <- read_csv("../1_Preparation_Donnees_Carburant/Donnee_Prep/df_resultat_revenu_2023_med23.csv")
 
-# Afficher les premières lignes du dataframe
+# Afficher les premiÃ¨res lignes du dataframe
 #head(data_revenu)
 
 ##### Analyse Univarier Revenues Gazole #####
-# Sélectionner les lignes ou la colonne 'PrixNom' est égale à 'Gazole'
+# SÃ©lectionner les lignes ou la colonne 'PrixNom' est Ã©gale Ã  'Gazole'
 #gazole_data <- data_revenu[data_revenu$PrixNom == "Gazole", ]
 #gazole_data <- data_revenu[data_revenu$PrixValeur >= 1.2, ]
 # Afficher les donnees filtres
@@ -31,7 +31,7 @@ gazole_data <- gazole_data %>%
     dist_autoroute.x < 500 ~ 1,
     dist_autoroute.x > 500 & dist_autoroute.x < 30000 ~ 2,
     dist_autoroute.x > 30000 ~ 3,
-    TRUE ~ NA_integer_  # Gestion par défaut si aucune condition n'est satisfaite
+    TRUE ~ NA_integer_  # Gestion par dÃ©faut si aucune condition n'est satisfaite
   ))
 
 # filtre
@@ -127,7 +127,7 @@ SP98_data <- SP98_data %>%
     dist_autoroute.x < 500 ~ 1,
     dist_autoroute.x > 500 & dist_autoroute.x < 30000 ~ 2,
     dist_autoroute.x > 30000 ~ 3,
-    TRUE ~ NA_integer_  # Gestion par défaut si aucune condition n'est satisfaite
+    TRUE ~ NA_integer_  # Gestion par dÃ©faut si aucune condition n'est satisfaite
   ))
 
 # filtre
@@ -223,7 +223,7 @@ SP95_data <- SP95_data %>%
     dist_autoroute.x < 500 ~ 1,
     dist_autoroute.x > 500 & dist_autoroute.x < 30000 ~ 2,
     dist_autoroute.x > 30000 ~ 3,
-    TRUE ~ NA_integer_  # Gestion par défaut si aucune condition n'est satisfaite
+    TRUE ~ NA_integer_  # Gestion par dÃ©faut si aucune condition n'est satisfaite
   ))
 
 # filtre
