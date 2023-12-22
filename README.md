@@ -47,11 +47,11 @@ Tout d'abord récupérez les donnéede Data_All et Donnee_Spatial dans le repert
 
 
 ### Comparaison du prix du carburant et de la distance routière 
-Tout d'abord récupérez les donnée sur les **routes**, le **carburant** et le fichier **nomfichier.R**.  
+Tout d'abord récupérez les donnée sur les **routes**, le **carburant**.  
 
 
 ### Comparaison du prix du carburant et la distance de la station-service à un magasin 
-Tout d'abord récupérez les donnée sur les **magasins**, le **carburant** et le fichier **nomfichier.R**.  
+Tout d'abord récupérez les donnée sur les **magasins**, le **carburant**.   
 
 ### ACP
 Tout d'abord récupérez les donnée de Data_All et Donnee_Spatial dans le repertoire 2_Analyse_data  , faire tourner le fichier **ACP_POP_REVENU.R**.  
